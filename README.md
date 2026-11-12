@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=CS%20%40%20Wellesley%20%E2%80%9827;Co-founder%20%26%20CTO%20%40%20TagAlong%20%C2%B7%20Break%20Through%20Tech%20AI%20Fellow" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&duration=2000&pause=1000&color=a371f7&center=true&vCenter=true&repeat=false&width=900&height=44&lines=CS%20%40%20Wellesley%20College%20%E2%80%9827%20%C2%B7%20Co-founder%20%40%20TagAlong" alt="CS @ Wellesley College '27 · Co-founder @ TagAlong" />
 </p>
 
 ### 🚀 About Me
