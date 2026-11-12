@@ -59,8 +59,10 @@ I build AI-powered products end to end, from user research to the pipelines, API
 </p>
 
 ### 🎯 Featured Project: [TagAlong](https://tagalong-landing-public.vercel.app/)
-**What:** Group travel planning app that helps trips make it out of the group chat. Your group can see when everyone's free, swipe to vote on places, and get guided from picking a date to choosing a destination, so every opinion counts and no one gets stuck planning alone. We started it after our own study-abroad trip plans in Budapest kept stalling in the chat.  
-**My role:** Co-founder & CTO. I lead the technical architecture and mobile development, and helped define the MVP scope and product requirements.  
+**What:** Group travel planning app that helps trips make it out of the group chat. Your group can see when everyone's free, swipe to vote on places, and get guided from picking a date to choosing a destination, so every opinion counts and no one gets stuck planning alone. We started it after our own study-abroad trip plans in Budapest kept stalling in the chat.
+
+**My role:** Co-founder & CTO. I lead the technical architecture and mobile development, and helped define the MVP scope and product requirements. 
+
 **Highlights:** Expanded the product into group pre-planning after 16 user interviews and a 31-person survey; built an AI pipeline that turns travel videos into geocoded itineraries in 5 seconds (Google Vision OCR → GPT-4o-mini → Places API). Beta launches December 2026. *Technovation AIVA Accelerator & WIN Lab.*
 
 ### 🚀 More Projects
